@@ -1,0 +1,17 @@
+@font-face {
+    font-family: font; /* Имя шрифта */
+    font-style: normal;
+    font-weight: normal;
+    src: local('font'), url(font.ttf); 
+   }
+
+ h1{
+ 	font-family: font;
+ 	color:white;
+ 	font-weight: 200;
+ 	color: #76f12c
+ }
+
+ .f1{
+ 	font-size: 8rem !important;
+ }
